@@ -28,7 +28,7 @@ The dataset includes [n=40] participants with chronic low back pain and [n=28] p
 | `participants.csv` | Demographics, clinical characteristics, psychophysical, and MRS data |
 | `mrs/` | MRS data |
 
-See `docs/data_dictionary.md` for detailed variable explanations.
+See `docs/data_dictionary.xlsx` for detailed variable explanations.
 
 ---
 
