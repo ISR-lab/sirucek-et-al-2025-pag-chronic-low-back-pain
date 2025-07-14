@@ -6,7 +6,7 @@ This repository contains data from the study:
 
 ## 📂 Contents
 
-- `data/` — Raw and/or preprocessed study data
+- `data/` — Raw, preprocessed, and/or final study data
 - `docs/` — Supplementary material
 - `LICENSE` — Terms of use
 
