@@ -26,7 +26,7 @@ The dataset includes [n=40] participants with chronic low back pain and [n=28] p
 | File | Description |
 |------|-------------|
 | `participants.csv` | Demographics, clinical characteristics, psychophysical, and final MRS data |
-| `preprocessed/` | This folder contains raw MRS data that has undergone basic preprocessing (e.g., frequency alignment, phase correction) but has not been analyzed. Provided for reproducibility and alternative analyses. The folder also contains anatomical T1-weighted images. |
+| `preprocessed/` | This folder will contain raw MRS data that has undergone basic preprocessing (e.g., frequency alignment, phase correction) but has not been analyzed. Provided for reproducibility and alternative analyses. The folder will also contain anatomical T1-weighted images. The data is currently being anonymized and will be uploaded upon completion. |
 
 See `docs/data_dictionary.xlsx` for detailed explanations of variables included in participants.csv.
 
